@@ -1,11 +1,11 @@
-# 🐍 Python — Bases et POO
+# Python — Bases et POO
 
-> 📚 Fiche personnelle de révision Python
+> Fiche personnelle de révision Python
 > Cette documentation regroupe les notions essentielles de Python : variables, conditions, boucles, fonctions, collections, `*args`, `**kwargs`, scope, modules, classes et POO.
 
 ---
 
-## 📌 Sommaire
+## Sommaire
 
 * [1. Variables](#1--variables)
 * [2. Types de données](#2--types-de-données)
@@ -157,7 +157,7 @@ print("Bonjour")
 nom = input("Entrez votre nom : ")
 ```
 
-⚠️ `input()` retourne toujours une chaîne (`str`).
+`input()` retourne toujours une chaîne (`str`).
 
 Pour récupérer un nombre :
 
@@ -1110,7 +1110,7 @@ pepperoni.preparation()
 
 ---
 
-# 🧠 Résumé rapide
+# Résumé rapide
 
 | Notion                     | Exemple                |
 | -------------------------- | ---------------------- |
@@ -1141,7 +1141,7 @@ pepperoni.preparation()
 
 ---
 
-# 🎯 À retenir en priorité
+# À retenir en priorité
 
 Pour les bases Python :
 
